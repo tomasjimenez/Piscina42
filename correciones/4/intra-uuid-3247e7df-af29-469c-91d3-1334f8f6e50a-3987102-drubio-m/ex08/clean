@@ -1,0 +1,1 @@
+find .  -name  "*~" -or -name "#*#" | xargs rm -rf

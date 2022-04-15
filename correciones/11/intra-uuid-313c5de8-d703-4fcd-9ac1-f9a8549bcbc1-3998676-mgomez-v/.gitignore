@@ -1,0 +1,16 @@
+resources
+.DS_Store
+ex01/testShell00
+ex02/test1
+ex02/test2
+ex02/test3
+ex02/test4
+ex02/test5
+ex02/test6
+ex03/id_rsa_pub.pub
+ex05/git_ignore.sh
+ex07/.DS_store
+ex07/resources
+ex08/ex
+ex09/prueba
+ex09/clean
